@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.0.11.VNLCNXM release-keys
+- manufacturer: xiaomi
+- platform: mt6785
+- codename: begonia
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.0.11.VNLCNXM
+- tags: release-keys
+- fingerprint: Redmi/begonia/begonia:11/RP1A.230905.009/V14.0.10.0.RGGCNXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.0.11.VNLCNXM-release-keys
+- repo: redmi_begonia_dump

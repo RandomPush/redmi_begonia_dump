@@ -1,0 +1,16 @@
+system/system_ext/apex/com.android.vndk.v30.apex
+system/system_ext/priv-app/Settings/Settings.apk
+system/product/app/VoiceAssistAndroidT/VoiceAssistAndroidT.apk
+system/product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+system/product/data-app/MIUIVideo/MIUIVideo.apk
+system/product/data-app/Health/Health.apk
+system/product/data-app/MIMediaEditor/MIMediaEditor.apk
+system/product/data-app/MIUIMusicT/MIUIMusicT.apk
+system/product/data-app/SmartHome/SmartHome.apk
+system/product/data-app/MIUIYoupin/MIUIYoupin.apk
+system/product/data-app/MiShop/MiShop.apk
+system/product/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
+system/product/priv-app/GmsCore/GmsCore.apk
+system/product/priv-app/MIUIAICR/MIUIAICR.apk
+system/product/priv-app/MIUIBrowser/MIUIBrowser.apk
+system/product/priv-app/MiuiCameraLeica/MiuiCameraLeica.apk
